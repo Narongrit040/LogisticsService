@@ -1,37 +1,39 @@
 <h1>LogisticsService</h1>
 URL:http://logisticsservice20180425040234.azurewebsites.net/Help<br/>
-  <thead>
-        <tr><th>API</th><th>Description</th></tr>
+ <h2 id="Logistics">Logistics</h2>
+<table class="help-page-table">
+    <thead>
+        <tr><th>API</th><th></th></tr>
     </thead>
     <tbody>
         <tr>
             <td class="api-name"><a href="/Help/Api/GET-api-Logistics">GET api/Logistics</a></td>
             <td class="api-documentation">
-              
+                <p></p>
             </td>
         </tr>
         <tr>
             <td class="api-name"><a href="/Help/Api/GET-api-Logistics-id">GET api/Logistics/{id}</a></td>
             <td class="api-documentation">
-               
+                <p></p>
             </td>
         </tr>
         <tr>
             <td class="api-name"><a href="/Help/Api/PUT-api-Logistics-id">PUT api/Logistics/{id}</a></td>
             <td class="api-documentation">
-           
+                <p></p>
             </td>
         </tr>
         <tr>
             <td class="api-name"><a href="/Help/Api/POST-api-Logistics">POST api/Logistics</a></td>
             <td class="api-documentation">
-    
+                <p></p>
             </td>
         </tr>
         <tr>
             <td class="api-name"><a href="/Help/Api/DELETE-api-Logistics-id">DELETE api/Logistics/{id}</a></td>
             <td class="api-documentation">
-        
+           
             </td>
         </tr>
     </tbody>
