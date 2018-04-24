@@ -7,31 +7,31 @@ URL:http://logisticsservice20180425040234.azurewebsites.net/Help<br/>
         <tr>
             <td class="api-name"><a href="/Help/Api/GET-api-Logistics">GET api/Logistics</a></td>
             <td class="api-documentation">
-                <p>No documentation available.</p>
+              
             </td>
         </tr>
         <tr>
             <td class="api-name"><a href="/Help/Api/GET-api-Logistics-id">GET api/Logistics/{id}</a></td>
             <td class="api-documentation">
-                <p>No documentation available.</p>
+               
             </td>
         </tr>
         <tr>
             <td class="api-name"><a href="/Help/Api/PUT-api-Logistics-id">PUT api/Logistics/{id}</a></td>
             <td class="api-documentation">
-                <p>No documentation available.</p>
+           
             </td>
         </tr>
         <tr>
             <td class="api-name"><a href="/Help/Api/POST-api-Logistics">POST api/Logistics</a></td>
             <td class="api-documentation">
-                <p>No documentation available.</p>
+    
             </td>
         </tr>
         <tr>
             <td class="api-name"><a href="/Help/Api/DELETE-api-Logistics-id">DELETE api/Logistics/{id}</a></td>
             <td class="api-documentation">
-                <p>No documentation available.</p>
+        
             </td>
         </tr>
     </tbody>
