@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LogisticDBModelStoreContainer" CdmEntityContainer="LogisticDBEntities">
+    <EntitySetMapping Name="Logistics">
+      <EntityTypeMapping TypeName="LogisticDBModel.Logistic">
+        <MappingFragment StoreEntitySet="Logistics">
+          <ScalarProperty Name="Logistic_id" ColumnName="Logistic_id" />
+          <ScalarProperty Name="Payment_id" ColumnName="Payment_id" />
+          <ScalarProperty Name="User_id" ColumnName="User_id" />
+          <ScalarProperty Name="Product_id" ColumnName="Product_id" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Delivery_type" ColumnName="Delivery_type" />
+          <ScalarProperty Name="Payment_status" ColumnName="Payment_status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
