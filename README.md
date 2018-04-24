@@ -1,5 +1,42 @@
 <h1>LogisticsService</h1>
 URL:http://logisticsservice20180425040234.azurewebsites.net/Help<br/>
+  <thead>
+        <tr><th>API</th><th>Description</th></tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="api-name"><a href="/Help/Api/GET-api-Logistics">GET api/Logistics</a></td>
+            <td class="api-documentation">
+                <p>No documentation available.</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="api-name"><a href="/Help/Api/GET-api-Logistics-id">GET api/Logistics/{id}</a></td>
+            <td class="api-documentation">
+                <p>No documentation available.</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="api-name"><a href="/Help/Api/PUT-api-Logistics-id">PUT api/Logistics/{id}</a></td>
+            <td class="api-documentation">
+                <p>No documentation available.</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="api-name"><a href="/Help/Api/POST-api-Logistics">POST api/Logistics</a></td>
+            <td class="api-documentation">
+                <p>No documentation available.</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="api-name"><a href="/Help/Api/DELETE-api-Logistics-id">DELETE api/Logistics/{id}</a></td>
+            <td class="api-documentation">
+                <p>No documentation available.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br/>
 <h2>Members</h2>
 Mr.Pkaypreak Ung 5830213047</br> 
 Mr.Narongrit Bunsaman 5830213040<br>
